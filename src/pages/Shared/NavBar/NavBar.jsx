@@ -70,7 +70,8 @@ const NavBar = () => {
 
             </div>
 
-            <hr />
+            <hr className="border-0 bg-green-500 h-1" />
+
 
             
         </div>
