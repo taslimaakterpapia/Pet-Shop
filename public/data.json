@@ -1,0 +1,1271 @@
+{
+    "categories": {
+        "cat_food": [
+            {
+              "product_name": "Premium Dry Cat Food (5lb)",
+              "price": 14.99,
+              "rating": 4.7,
+              "description": "Nutritious dry food for adult cats with essential vitamins and minerals."
+            },
+            {
+              "product_name": "Wet Food Variety Pack",
+              "price": 11.49,
+              "rating": 4.6,
+              "description": "Assorted wet food flavors to provide a balanced diet for your cat."
+            },
+            {
+              "product_name": "Grain-Free Salmon Cat Food",
+              "price": 19.99,
+              "rating": 4.9,
+              "description": "High-quality grain-free cat food with real salmon as the main ingredient."
+            },
+            {
+              "product_name": "Senior Cat Formula",
+              "price": 16.79,
+              "rating": 4.5,
+              "description": "Specially formulated food for senior cats to support their health needs."
+            },
+            {
+              "product_name": "Organic Kitten Food",
+              "price": 22.99,
+              "rating": 4.8,
+              "description": "Organic food designed to meet the nutritional requirements of kittens."
+            },
+            {
+              "product_name": "Hairball Control Cat Food",
+              "price": 13.59,
+              "rating": 4.4,
+              "description": "Special formula to help reduce hairballs in cats during digestion."
+            },
+            {
+              "product_name": "Sensitive Stomach Cat Food",
+              "price": 18.29,
+              "rating": 4.6,
+              "description": "Gentle formula suitable for cats with sensitive stomachs."
+            },
+            {
+              "product_name": "Indoor Cat Weight Control",
+              "price": 17.49,
+              "rating": 4.7,
+              "description": "Food formulated to help indoor cats maintain a healthy weight."
+            },
+            {
+              "product_name": "Natural Grain-Free Turkey Recipe",
+              "price": 21.99,
+              "rating": 4.8,
+              "description": "Turkey-based grain-free recipe for cats with sensitive digestion."
+            },
+            {
+              "product_name": "Raw Freeze-Dried Cat Food",
+              "price": 28.79,
+              "rating": 4.9,
+              "description": "Freeze-dried raw food offering the benefits of a raw diet for cats."
+            }
+          ],
+          "cat_accessories": [
+            {
+              "product_name": "Cat Scratching Post",
+              "price": 25.99,
+              "rating": 4.8,
+              "description": "Durable post for cats to scratch and maintain healthy claws."
+            },
+            {
+              "product_name": "Cat Harness and Leash Set",
+              "price": 16.99,
+              "rating": 4.5,
+              "description": "Adjustable harness and leash for safe outdoor walks with your cat."
+            },
+            {
+              "product_name": "Cat Grooming Kit",
+              "price": 19.99,
+              "rating": 4.7,
+              "description": "Set of grooming tools for keeping your cat's coat healthy and clean."
+            },
+            {
+              "product_name": "Cat Window Perch",
+              "price": 22.49,
+              "rating": 4.6,
+              "description": "Comfortable perch to give your cat a view from the window."
+            },
+            {
+              "product_name": "Automatic Cat Feeder",
+              "price": 34.99,
+              "rating": 4.5,
+              "description": "Programmable feeder for scheduled cat feeding times."
+            },
+            {
+              "product_name": "Cat Collar with Bell",
+              "price": 8.99,
+              "rating": 4.3,
+              "description": "Adjustable collar with a bell for your cat's safety and style."
+            },
+            {
+              "product_name": "Cat Litter Mat",
+              "price": 14.79,
+              "rating": 4.4,
+              "description": "Mat to place under the litter box to trap litter and keep floors clean."
+            },
+            {
+              "product_name": "Cat Carrier Bag",
+              "price": 29.99,
+              "rating": 4.6,
+              "description": "Sturdy and comfortable carrier bag for transporting your cat."
+            },
+            {
+              "product_name": "Cat Water Fountain",
+              "price": 26.99,
+              "rating": 4.8,
+              "description": "Fountain-style water dispenser to encourage your cat to drink more water."
+            },
+            {
+              "product_name": "Cat Puzzle Feeder Toy",
+              "price": 12.49,
+              "rating": 4.5,
+              "description": "Interactive toy that dispenses treats as your cat plays with it."
+            }
+          ],
+          "cat_toys": [
+            {
+              "product_name": "Interactive Feather Teaser",
+              "price": 8.99,
+              "rating": 4.4,
+              "description": "Feather toy attached to a wand for interactive play with your cat."
+            },
+            {
+              "product_name": "Catnip Mice Toy Set",
+              "price": 6.49,
+              "rating": 4.3,
+              "description": "Set of catnip-infused mice toys to stimulate your cat's playfulness."
+            },
+            {
+              "product_name": "Interactive Laser Toy",
+              "price": 12.99,
+              "rating": 4.7,
+              "description": "A laser pointer toy for interactive play sessions with your cat."
+            },
+            {
+              "product_name": "Cat Tunnel Toy",
+              "price": 10.99,
+              "rating": 4.6,
+              "description": "Tunnel toy for cats to explore, play, and hide in."
+            },
+            {
+              "product_name": "Cat Feather Wand",
+              "price": 9.49,
+              "rating": 4.5,
+              "description": "Wand toy with feathers to engage your cat in playful activities."
+            },
+            {
+              "product_name": "Cat Ball Track Toy",
+              "price": 14.99,
+              "rating": 4.8,
+              "description": "Ball track toy with spinning balls for chasing and swatting."
+            },
+            {
+              "product_name": "Catnip Banana Toy",
+              "price": 5.99,
+              "rating": 4.4,
+              "description": "Banana-shaped toy filled with catnip for energetic playtime."
+            },
+            {
+              "product_name": "Cat Puzzle Box",
+              "price": 13.79,
+              "rating": 4.6,
+              "description": "Box with hidden compartments and puzzles for mental stimulation."
+            },
+            {
+              "product_name": "Sisal Rope Cat Toy Set",
+              "price": 11.29,
+              "rating": 4.7,
+              "description": "Set of toys made with sisal rope for cats to scratch and play."
+            },
+            {
+              "product_name": "Crinkle Tunnel and Bed",
+              "price": 18.99,
+              "rating": 4.5,
+              "description": "Tunnel and bed combo with crinkle material for playful relaxation."
+            }
+          ],
+          "additional_category": [
+            {
+              "product_name": "Cat Dental Care Kit",
+              "price": 12.99,
+              "rating": 4.9,
+              "description": "Kit containing toothbrush and toothpaste for maintaining your cat's dental hygiene."
+            },
+            {
+              "product_name": "Heated Cat Bed",
+              "price": 34.99,
+              "rating": 4.7,
+              "description": "Electric heated bed to keep your cat warm and cozy in colder months."
+            },
+            {
+              "product_name": "Cat Drinking Fountain",
+              "price": 29.99,
+              "rating": 4.6,
+              "description": "Fountain-style water dispenser to encourage your cat to drink more water."
+            },
+            {
+              "product_name": "Collapsible Cat Tunnel",
+              "price": 18.49,
+              "rating": 4.5,
+              "description": "Foldable tunnel for cats to play, hide, and exercise in."
+            },
+            {
+              "product_name": "Cat Carrier Backpack",
+              "price": 42.99,
+              "rating": 4.8,
+              "description": "Backpack-style carrier for safely transporting your cat on trips."
+            },
+            {
+              "product_name": "Cat Window Hammock",
+              "price": 19.99,
+              "rating": 4.6,
+              "description": "Hammock that mounts to windows for your cat's lounging pleasure."
+            },
+            {
+              "product_name": "Interactive Treat Dispenser",
+              "price": 15.49,
+              "rating": 4.4,
+              "description": "Dispenser toy that rewards your cat with treats for playing."
+            },
+            {
+              "product_name": "Catnip Bubble Blower",
+              "price": 7.99,
+              "rating": 4.7,
+              "description": "Blower that creates catnip-infused bubbles for playful entertainment."
+            },
+            {
+              "product_name": "Cat Massaging Groomer",
+              "price": 9.99,
+              "rating": 4.5,
+              "description": "Groomer that massages and removes loose fur while your cat brushes against it."
+            },
+            {
+              "product_name": "Cat Furniture Protector",
+              "price": 16.79,
+              "rating": 4.8,
+              "description": "Transparent sheets to protect furniture from cat scratching."
+            }
+          ],
+          "dog_food": [
+            {
+              "product_name": "Grain-Free Dry Dog Food (10lb)",
+              "price": 24.99,
+              "rating": 4.7,
+              "description": "Nutritious grain-free food for adult dogs with real meat as the main ingredient."
+            },
+            {
+              "product_name": "Puppy Formula",
+              "price": 29.99,
+              "rating": 4.6,
+              "description": "Specially formulated food to support the growth and development of puppies."
+            },
+            {
+              "product_name": "Senior Dog Diet",
+              "price": 27.49,
+              "rating": 4.8,
+              "description": "Food designed for senior dogs to maintain their health and vitality."
+            },
+            {
+              "product_name": "Wet Food Variety Pack",
+              "price": 18.99,
+              "rating": 4.5,
+              "description": "Assortment of wet food flavors providing a balanced diet for your dog."
+            },
+            {
+              "product_name": "Weight Control Dog Food",
+              "price": 32.99,
+              "rating": 4.9,
+              "description": "Food formulated to help dogs maintain a healthy weight."
+            },
+            {
+              "product_name": "High-Protein Dog Food",
+              "price": 26.79,
+              "rating": 4.6,
+              "description": "Food with a higher protein content suitable for active dogs."
+            },
+            {
+              "product_name": "Sensitive Stomach Dog Food",
+              "price": 30.49,
+              "rating": 4.7,
+              "description": "Gentle formula suitable for dogs with sensitive stomachs."
+            },
+            {
+              "product_name": "Natural Grain-Free Salmon Recipe",
+              "price": 34.99,
+              "rating": 4.8,
+              "description": "Salmon-based grain-free recipe for dogs with food sensitivities."
+            },
+            {
+              "product_name": "Raw Frozen Dog Food",
+              "price": 39.99,
+              "rating": 4.9,
+              "description": "Frozen raw food offering the benefits of a raw diet for dogs."
+            },
+            {
+              "product_name": "Veterinary Prescription Diet",
+              "price": 45.99,
+              "rating": 4.7,
+              "description": "Specialized diet prescribed by veterinarians for specific health conditions in dogs."
+            }
+          ],
+          "dog_accessories": [
+            {
+              "product_name": "Dog Bed",
+              "price": 45.99,
+              "rating": 4.8,
+              "description": "Soft and comfortable bed for dogs to rest and sleep in."
+            },
+            {
+              "product_name": "Dog Collar and Leash Set",
+              "price": 18.99,
+              "rating": 4.5,
+              "description": "Adjustable collar and leash set for safe walks and outdoor activities."
+            },
+            {
+              "product_name": "Dog Grooming Kit",
+              "price": 29.99,
+              "rating": 4.7,
+              "description": "Collection of grooming tools to maintain your dog's coat and hygiene."
+            },
+            {
+              "product_name": "Dog Crate",
+              "price": 55.49,
+              "rating": 4.6,
+              "description": "Safe and secure crate for training or transporting your dog."
+            },
+            {
+              "product_name": "Dog Car Seat Cover",
+              "price": 24.99,
+              "rating": 4.5,
+              "description": "Protective cover to keep your car seats clean during dog travels."
+            },
+            {
+              "product_name": "Dog Harness",
+              "price": 21.99,
+              "rating": 4.4,
+              "description": "Harness to provide comfort and control for dogs during walks."
+            },
+            {
+              "product_name": "Dog Cooling Vest",
+              "price": 33.99,
+              "rating": 4.6,
+              "description": "Vest designed to keep dogs cool during hot weather."
+            },
+            {
+              "product_name": "Dog Food and Water Bowls Set",
+              "price": 16.79,
+              "rating": 4.7,
+              "description": "Set of bowls for food and water to accommodate your dog's needs."
+            },
+            {
+              "product_name": "Dog Poop Bag Dispenser",
+              "price": 9.99,
+              "rating": 4.8,
+              "description": "Convenient dispenser for carrying and dispensing dog waste bags."
+            },
+            {
+              "product_name": "Dog Seat Belt",
+              "price": 12.49,
+              "rating": 4.5,
+              "description": "Safety belt to secure your dog while traveling in a vehicle."
+            }
+          ],
+          "dog_toys": [
+            {
+              "product_name": "Dog Chew Toy",
+              "price": 8.99,
+              "rating": 4.4,
+              "description": "Durable chew toy for dogs to help with dental health."
+            },
+            {
+              "product_name": "Squeaky Plush Dog Toy",
+              "price": 7.49,
+              "rating": 4.3,
+              "description": "Soft plush toy that squeaks, entertaining dogs during playtime."
+            },
+            {
+              "product_name": "Rubber Dog Bone",
+              "price": 10.99,
+              "rating": 4.7,
+              "description": "Rubber bone toy designed for chewing and interactive play."
+            },
+            {
+              "product_name": "Dog Frisbee",
+              "price": 6.99,
+              "rating": 4.6,
+              "description": "Durable and aerodynamic frisbee for outdoor play sessions."
+            },
+            {
+              "product_name": "Rope Dog Toy Set",
+              "price": 12.99,
+              "rating": 4.5,
+              "description": "Set of rope toys for games like tug-of-war and chewing."
+            },
+            {
+              "product_name": "Interactive Dog Puzzle Toy",
+              "price": 14.99,
+              "rating": 4.8,
+              "description": "Toy that challenges dogs to solve puzzles for treats."
+            },
+            {
+              "product_name": "Dog Ball Launcher",
+              "price": 19.99,
+              "rating": 4.6,
+              "description": "Launcher device for throwing balls, perfect for active dogs."
+            },
+            {
+              "product_name": "Dog Tennis Balls Set",
+              "price": 8.49,
+              "rating": 4.4,
+              "description": "Set of tennis balls for fetching and playing outdoor games with your dog."
+            },
+            {
+              "product_name": "Floating Dog Toy",
+              "price": 11.29,
+              "rating": 4.7,
+              "description": "Floating toy for water play, ideal for dogs who love swimming."
+            },
+            {
+              "product_name": "Dog Tug Toy",
+              "price": 9.79,
+              "rating": 4.5,
+              "description": "Tug-of-war toy made of durable materials for interactive play."
+            }
+          ],
+          "additional_category": [
+            {
+              "product_name": "Dog Dental Chews",
+              "price": 15.99,
+              "rating": 4.9,
+              "description": "Chews designed to promote dental health and hygiene for dogs."
+            },
+            {
+              "product_name": "Dog Backpack",
+              "price": 27.99,
+              "rating": 4.7,
+              "description": "Backpack for dogs to carry essentials during outdoor adventures."
+            },
+            {
+              "product_name": "Reflective Dog Vest",
+              "price": 19.49,
+              "rating": 4.6,
+              "description": "Vest with reflective stripes for visibility and safety during walks."
+            },
+            {
+              "product_name": "Dog Cooling Mat",
+              "price": 32.99,
+              "rating": 4.5,
+              "description": "Mat designed to keep dogs cool in warm weather."
+            },
+            {
+              "product_name": "Dog First Aid Kit",
+              "price": 29.99,
+              "rating": 4.8,
+              "description": "Emergency kit with supplies for basic dog first aid."
+            },
+            {
+              "product_name": "Dog Water Bottle",
+              "price": 14.79,
+              "rating": 4.7,
+              "description": "Portable bottle with attached bowl for convenient dog hydration."
+            },
+            {
+              "product_name": "Dog Hair Detangler Spray",
+              "price": 12.99,
+              "rating": 4.4,
+              "description": "Spray to help detangle and manage your dog's coat."
+            },
+            {
+              "product_name": "Dog Raincoat",
+              "price": 22.99,
+              "rating": 4.5,
+              "description": "Waterproof coat to keep your dog dry during rainy walks."
+            },
+            {
+              "product_name": "Dog Training Clicker",
+              "price": 6.99,
+              "rating": 4.8,
+              "description": "Clicker device for positive reinforcement during dog training."
+            },
+            {
+              "product_name": "Dog Nail Grinder",
+              "price": 17.49,
+              "rating": 4.6,
+              "description": "Electric grinder for safely trimming your dog's nails."
+            }
+          ],
+          "fish_food": [
+            {
+              "product_name": "Tropical Fish Flakes",
+              "price": 7.99,
+              "rating": 4.5,
+              "description": "Nutritious flakes suitable for a variety of tropical fish species."
+            },
+            {
+              "product_name": "Cichlid Pellets",
+              "price": 9.49,
+              "rating": 4.7,
+              "description": "Pellet food specially formulated for cichlid fish."
+            },
+            {
+              "product_name": "Algae Wafers",
+              "price": 5.99,
+              "rating": 4.6,
+              "description": "Wafers rich in spirulina to feed algae-eating fish."
+            },
+            {
+              "product_name": "Betta Fish Pellets",
+              "price": 6.99,
+              "rating": 4.8,
+              "description": "Pellets designed specifically for betta fish nutrition."
+            },
+            {
+              "product_name": "Freeze-Dried Bloodworms",
+              "price": 8.99,
+              "rating": 4.4,
+              "description": "High-protein bloodworms suitable for various fish species."
+            },
+            {
+              "product_name": "Goldfish Flakes",
+              "price": 4.99,
+              "rating": 4.7,
+              "description": "Flakes formulated for the dietary needs of goldfish."
+            },
+            {
+              "product_name": "Tropical Granules",
+              "price": 6.49,
+              "rating": 4.5,
+              "description": "Granule food providing balanced nutrition for tropical fish."
+            },
+            {
+              "product_name": "Marine Pellets",
+              "price": 10.99,
+              "rating": 4.6,
+              "description": "Pellets enriched with vitamins for marine fish species."
+            },
+            {
+              "product_name": "Herbivore Tablets",
+              "price": 7.79,
+              "rating": 4.8,
+              "description": "Tablets made for herbivorous fish with plant-based ingredients."
+            },
+            {
+              "product_name": "Freeze-Dried Brine Shrimp",
+              "price": 9.29,
+              "rating": 4.9,
+              "description": "Freeze-dried shrimp as a protein-rich treat for fish."
+            }
+          ],
+          "aquarium_accessories": [
+            {
+              "product_name": "Fish Tank Heater",
+              "price": 19.99,
+              "rating": 4.7,
+              "description": "Adjustable heater to maintain optimal water temperature in the aquarium."
+            },
+            {
+              "product_name": "Aquarium Air Pump",
+              "price": 15.49,
+              "rating": 4.6,
+              "description": "Pump to aerate the water and create bubbles in the aquarium."
+            },
+            {
+              "product_name": "LED Aquarium Light",
+              "price": 27.99,
+              "rating": 4.8,
+              "description": "Energy-efficient LED light for illuminating the fish tank."
+            },
+            {
+              "product_name": "Fish Tank Filter",
+              "price": 22.49,
+              "rating": 4.5,
+              "description": "Filter system to maintain clean and healthy water in the aquarium."
+            },
+            {
+              "product_name": "Aquarium Test Kit",
+              "price": 14.99,
+              "rating": 4.7,
+              "description": "Kit to test water parameters like pH, ammonia, nitrite, and nitrate."
+            },
+            {
+              "product_name": "Fish Net",
+              "price": 6.99,
+              "rating": 4.4,
+              "description": "Net for safely catching and transferring fish within the aquarium."
+            },
+            {
+              "product_name": "Gravel Vacuum Cleaner",
+              "price": 18.79,
+              "rating": 4.6,
+              "description": "Device to clean gravel and remove debris from the aquarium."
+            },
+            {
+              "product_name": "Aquarium Thermometer",
+              "price": 8.49,
+              "rating": 4.5,
+              "description": "Thermometer to monitor and maintain water temperature."
+            },
+            {
+              "product_name": "Fish Tank Background",
+              "price": 9.99,
+              "rating": 4.8,
+              "description": "Decorative background to enhance the appearance of the aquarium."
+            },
+            {
+              "product_name": "Algae Scraper",
+              "price": 7.29,
+              "rating": 4.7,
+              "description": "Tool for removing algae from the walls of the fish tank."
+            }
+          ],
+          "fish_tank_decor": [
+            {
+              "product_name": "Artificial Plants Set",
+              "price": 12.99,
+              "rating": 4.6,
+              "description": "Set of realistic artificial plants to decorate the aquarium."
+            },
+            {
+              "product_name": "Driftwood Aquarium Ornament",
+              "price": 16.49,
+              "rating": 4.7,
+              "description": "Decorative driftwood piece for a natural look in the fish tank."
+            },
+            {
+              "product_name": "Coral Reef Aquarium Decoration",
+              "price": 14.99,
+              "rating": 4.8,
+              "description": "Colorful coral reef decoration to create an underwater landscape."
+            },
+            {
+              "product_name": "Cave Aquarium Ornament",
+              "price": 11.29,
+              "rating": 4.5,
+              "description": "Cave-shaped ornament providing shelter for fish in the aquarium."
+            },
+            {
+              "product_name": "Sunken Shipwreck Decor",
+              "price": 19.99,
+              "rating": 4.6,
+              "description": "Replica of a sunken ship for an interesting focal point in the tank."
+            },
+            {
+              "product_name": "Floating Jellyfish Decoration",
+              "price": 8.99,
+              "rating": 4.4,
+              "description": "Floating jellyfish ornament to add movement to the aquarium."
+            },
+            {
+              "product_name": "Aquarium Rock Cave",
+              "price": 17.79,
+              "rating": 4.7,
+              "description": "Rock cave structure providing hiding spots for fish."
+            },
+            {
+              "product_name": "Grass Aquarium Ornament",
+              "price": 13.49,
+              "rating": 4.6,
+              "description": "Grass-like decoration for a natural ambiance in the fish tank."
+            },
+            {
+              "product_name": "Bamboo Aquarium Decor",
+              "price": 10.99,
+              "rating": 4.5,
+              "description": "Bamboo-shaped ornament for an Asian-inspired aquarium theme."
+            },
+            {
+              "product_name": "Moss Ball Aquarium Decoration",
+              "price": 9.79,
+              "rating": 4.8,
+              "description": "Living moss ball to enhance the aesthetics and water quality."
+            }
+          ],
+          "additional_category": [
+            {
+              "product_name": "Aquarium Gravel",
+              "price": 7.99,
+              "rating": 4.9,
+              "description": "Colored gravel to decorate the bottom of the fish tank."
+            },
+            {
+              "product_name": "Aquarium Heater Guard",
+              "price": 11.99,
+              "rating": 4.7,
+              "description": "Guard to protect fish from direct contact with the heater."
+            },
+            {
+              "product_name": "Aquarium Siphon",
+              "price": 12.49,
+              "rating": 4.6,
+              "description": "Siphon for water changes and cleaning in the aquarium."
+            },
+            {
+              "product_name": "Aquarium Background Poster",
+              "price": 8.99,
+              "rating": 4.5,
+              "description": "Poster depicting underwater scenes for the aquarium background."
+            },
+            {
+              "product_name": "Fish Tank Divider",
+              "price": 9.79,
+              "rating": 4.8,
+              "description": "Divider to separate sections within the fish tank."
+            },
+            {
+              "product_name": "Aquarium Air Stone",
+              "price": 6.99,
+              "rating": 4.7,
+              "description": "Stone that creates bubbles and improves aeration in the aquarium."
+            },
+            {
+              "product_name": "Aquarium Plant Anchors",
+              "price": 5.49,
+              "rating": 4.4,
+              "description": "Anchors to secure live plants in the substrate of the aquarium."
+            },
+            {
+              "product_name": "Aquarium Algae Control",
+              "price": 7.99,
+              "rating": 4.5,
+              "description": "Treatment to control and prevent algae growth in the aquarium."
+            },
+            {
+              "product_name": "Fish Tank Cleaning Brush Set",
+              "price": 10.99,
+              "rating": 4.6,
+              "description": "Set of brushes for thorough cleaning of the fish tank."
+            },
+            {
+              "product_name": "Aquarium Water Conditioner",
+              "price": 9.49,
+              "rating": 4.7,
+              "description": "Conditioner to make tap water safe for fish by neutralizing harmful chemicals."
+            }
+          ],
+          "bird_accessories": [
+            {
+              "product_name": "Bird Cage Cover",
+              "price": 15.99,
+              "rating": 4.5,
+              "description": "Cover providing privacy for birds in cages.",
+              "image_url": "https://example.com/bird_cage_cover.jpg"
+            },
+            {
+              "product_name": "Bird Perch",
+              "price": 10.49,
+              "rating": 4.7,
+              "description": "Wooden perch for birds to rest and exercise.",
+              "image_url": "https://example.com/bird_perch.jpg"
+            },
+            {
+              "product_name": "Bird Swing",
+              "price": 12.99,
+              "rating": 4.6,
+              "description": "Swing for birds to enjoy playful moments.",
+              "image_url": "https://example.com/bird_swing.jpg"
+            },
+            {
+              "product_name": "Bird Bath",
+              "price": 18.49,
+              "rating": 4.8,
+              "description": "Bath accessory for birds to bathe comfortably.",
+              "image_url": "https://example.com/bird_bath.jpg"
+            },
+            {
+              "product_name": "Bird Toy Assortment",
+              "price": 14.99,
+              "rating": 4.5,
+              "description": "Assorted toys for birds' entertainment.",
+              "image_url": "https://example.com/bird_toy_assortment.jpg"
+            },
+            {
+              "product_name": "Bird Feeder",
+              "price": 11.79,
+              "rating": 4.7,
+              "description": "Feeder for birds to access food easily.",
+              "image_url": "https://example.com/bird_feeder.jpg"
+            },
+            {
+              "product_name": "Nesting Box",
+              "price": 19.99,
+              "rating": 4.6,
+              "description": "Box for birds to nest comfortably.",
+              "image_url": "https://example.com/bird_nesting_box.jpg"
+            },
+            {
+              "product_name": "Bird Carrier",
+              "price": 24.49,
+              "rating": 4.8,
+              "description": "Portable carrier for birds' transportation.",
+              "image_url": "https://example.com/bird_carrier.jpg"
+            },
+            {
+              "product_name": "Bird Harness",
+              "price": 17.99,
+              "rating": 4.7,
+              "description": "Harness for safe outdoor bird walks.",
+              "image_url": "https://example.com/bird_harness.jpg"
+            },
+            {
+              "product_name": "Bird Ladder",
+              "price": 9.99,
+              "rating": 4.6,
+              "description": "Ladder for birds' climbing and exercise.",
+              "image_url": "https://example.com/bird_ladder.jpg"
+            }
+          ],
+          "bird_food": [
+            {
+              "product_name": "Parakeet Seed Mix",
+              "price": 6.99,
+              "rating": 4.5,
+              "description": "Nutritious seed mix suitable for parakeets and small birds.",
+              "image_url": "https://example.com/parakeet_seed_mix.jpg"
+            },
+            {
+              "product_name": "Cockatiel Pellets",
+              "price": 8.49,
+              "rating": 4.7,
+              "description": "Pellet food specially formulated for cockatiels' nutritional needs.",
+              "image_url": "https://example.com/cockatiel_pellets.jpg"
+            },
+            {
+              "product_name": "Canary Food",
+              "price": 7.99,
+              "rating": 4.6,
+              "description": "Specialized food for canaries.",
+              "image_url": "https://example.com/canary_food.jpg"
+            },
+            {
+              "product_name": "Finch Seed",
+              "price": 5.99,
+              "rating": 4.8,
+              "description": "Seed mix tailored for finches.",
+              "image_url": "https://example.com/finch_seed.jpg"
+            },
+            {
+              "product_name": "Parrot Nutri-Berries",
+              "price": 9.99,
+              "rating": 4.4,
+              "description": "Nutritious food for parrots.",
+              "image_url": "https://example.com/parrot_nutri_berrie.jpg"
+            },
+            {
+              "product_name": "Lovebird Food Pellets",
+              "price": 7.79,
+              "rating": 4.7,
+              "description": "Pellets for lovebirds.",
+              "image_url": "https://example.com/lovebird_food_pellets.jpg"
+            },
+            {
+              "product_name": "African Grey Parrot Mix",
+              "price": 10.49,
+              "rating": 4.5,
+              "description": "Specialized mix for African grey parrots.",
+              "image_url": "https://example.com/african_grey_parrot_mix.jpg"
+            },
+            {
+              "product_name": "Macaw Seed Blend",
+              "price": 11.99,
+              "rating": 4.6,
+              "description": "Seed blend for macaws.",
+              "image_url": "https://example.com/macaw_seed_blend.jpg"
+            },
+            {
+              "product_name": "Cockatoo Nut Blend",
+              "price": 12.79,
+              "rating": 4.8,
+              "description": "Nutritious blend for cockatoos.",
+              "image_url": "https://example.com/cockatoo_nut_blend.jpg"
+            },
+            {
+              "product_name": "Conure Fruit Treats",
+              "price": 8.99,
+              "rating": 4.9,
+              "description": "Fruit-based treats for conures.",
+              "image_url": "https://example.com/conure_fruit_treats.jpg"
+            }
+          ],
+          "bird_medicine": [
+            {
+              "product_name": "Avian Calcium Supplement",
+              "price": 12.99,
+              "rating": 4.6,
+              "description": "Calcium supplement for birds' bone health.",
+              "image_url": "https://example.com/avian_calcium.jpg"
+            },
+            {
+              "product_name": "Bird Vitamin Drops",
+              "price": 9.49,
+              "rating": 4.8,
+              "description": "Vitamin drops to supplement birds' diet.",
+              "image_url": "https://example.com/bird_vitamin_drops.jpg"
+            },
+            {
+              "product_name": "Bird Antibiotics",
+              "price": 14.99,
+              "rating": 4.4,
+              "description": "Antibiotics for treating bird infections.",
+              "image_url": "https://example.com/bird_antibiotics.jpg"
+            },
+            {
+              "product_name": "Anti-Parasitic Bird Treatment",
+              "price": 11.79,
+              "rating": 4.7,
+              "description": "Treatment for parasitic infections in birds.",
+              "image_url": "https://example.com/anti_parasitic_bird_treatment.jpg"
+            },
+            {
+              "product_name": "Feather Conditioning Supplement",
+              "price": 10.99,
+              "rating": 4.5,
+              "description": "Supplement for improving bird feathers' health.",
+              "image_url": "https://example.com/feather_conditioning_supplement.jpg"
+            },
+            {
+              "product_name": "Digestive Aid for Birds",
+              "price": 8.49,
+              "rating": 4.6,
+              "description": "Aid to improve digestive health in birds.",
+              "image_url": "https://example.com/digestive_aid_for_birds.jpg"
+            },
+            {
+              "product_name": "Wing and Beak Protector",
+              "price": 9.99,
+              "rating": 4.8,
+              "description": "Protector for wings and beak of birds.",
+              "image_url": "https://example.com/wing_beak_protector.jpg"
+            },
+            {
+              "product_name": "Herbal Calming Remedy",
+              "price": 13.49,
+              "rating": 4.7,
+              "description": "Herbal remedy to calm stressed birds.",
+              "image_url": "https://example.com/herbal_calming_remedy.jpg"
+            },
+            {
+              "product_name": "Bird Pain Relief",
+              "price": 15.99,
+              "rating": 4.6,
+              "description": "Pain relief for birds' discomfort.",
+              "image_url": "https://example.com/bird_pain_relief.jpg"
+            },
+            {
+              "product_name": "Multi-Vitamin for Birds",
+              "price": 12.29,
+              "rating": 4.9,
+              "description": "Multi-vitamin supplement for overall bird health.",
+              "image_url": "https://example.com/multi_vitamin_for_birds.jpg"
+            }
+          ],
+          "rabbit_food": [
+            {
+              "product_name": "Rabbit Pellets",
+              "price": 9.99,
+              "rating": 4.5,
+              "description": "Nutritious pellets for rabbits.",
+              "image_url": "https://example.com/rabbit_pellets.jpg"
+            },
+            {
+              "product_name": "Timothy Hay",
+              "price": 7.49,
+              "rating": 4.7,
+              "description": "High-quality timothy hay for rabbits' digestive health.",
+              "image_url": "https://example.com/timothy_hay.jpg"
+            },
+            {
+              "product_name": "Rabbit Muesli Mix",
+              "price": 8.99,
+              "rating": 4.6,
+              "description": "Muesli mix providing variety in a rabbit's diet.",
+              "image_url": "https://example.com/rabbit_muesli_mix.jpg"
+            },
+            {
+              "product_name": "Alfalfa Cubes",
+              "price": 6.79,
+              "rating": 4.8,
+              "description": "Alfalfa cubes for rabbits' chewing pleasure.",
+              "image_url": "https://example.com/alfalfa_cubes.jpg"
+            },
+            {
+              "product_name": "Rabbit Treats Variety Pack",
+              "price": 10.99,
+              "rating": 4.4,
+              "description": "Assorted treats for rewarding rabbits.",
+              "image_url": "https://example.com/rabbit_treats_variety_pack.jpg"
+            },
+            {
+              "product_name": "Oat Hay",
+              "price": 8.29,
+              "rating": 4.6,
+              "description": "Healthy oat hay for rabbits.",
+              "image_url": "https://example.com/oat_hay.jpg"
+            },
+            {
+              "product_name": "Rabbit Digestive Support Pellets",
+              "price": 11.49,
+              "rating": 4.7,
+              "description": "Pellets supporting rabbits' digestive health.",
+              "image_url": "https://example.com/rabbit_digestive_support_pellets.jpg"
+            },
+            {
+              "product_name": "Herbal Rabbit Food",
+              "price": 12.79,
+              "rating": 4.5,
+              "description": "Food infused with herbs beneficial for rabbits.",
+              "image_url": "https://example.com/herbal_rabbit_food.jpg"
+            },
+            {
+              "product_name": "Rabbit Orchard Grass",
+              "price": 9.99,
+              "rating": 4.9,
+              "description": "Orchard grass for rabbits' dietary variety.",
+              "image_url": "https://example.com/rabbit_orchard_grass.jpg"
+            },
+            {
+              "product_name": "Rabbit Nutrition Blocks",
+              "price": 13.99,
+              "rating": 4.6,
+              "description": "Blocks providing essential nutrition for rabbits.",
+              "image_url": "https://example.com/rabbit_nutrition_blocks.jpg"
+            }
+          ],
+          "rabbit_accessories": [
+            {
+              "product_name": "Rabbit Hutch",
+              "price": 69.99,
+              "rating": 4.5,
+              "description": "Spacious hutch for rabbits.",
+              "image_url": "https://example.com/rabbit_hutch.jpg"
+            },
+            {
+              "product_name": "Rabbit Hay Feeder",
+              "price": 12.99,
+              "rating": 4.7,
+              "description": "Feeder to dispense hay for rabbits.",
+              "image_url": "https://example.com/rabbit_hay_feeder.jpg"
+            },
+            {
+              "product_name": "Rabbit Water Bottle",
+              "price": 8.49,
+              "rating": 4.6,
+              "description": "Durable water bottle for rabbits.",
+              "image_url": "https://example.com/rabbit_water_bottle.jpg"
+            },
+            {
+              "product_name": "Rabbit Chew Toys Set",
+              "price": 14.99,
+              "rating": 4.8,
+              "description": "Set of toys for rabbits' dental health and entertainment.",
+              "image_url": "https://example.com/rabbit_chew_toys_set.jpg"
+            },
+            {
+              "product_name": "Rabbit Bedding",
+              "price": 11.79,
+              "rating": 4.7,
+              "description": "Soft and comfortable bedding for rabbits.",
+              "image_url": "https://example.com/rabbit_bedding.jpg"
+            },
+            {
+              "product_name": "Rabbit Litter Box",
+              "price": 16.99,
+              "rating": 4.5,
+              "description": "Litter box for rabbits' hygiene.",
+              "image_url": "https://example.com/rabbit_litter_box.jpg"
+            },
+            {
+              "product_name": "Rabbit Grooming Kit",
+              "price": 19.49,
+              "rating": 4.6,
+              "description": "Kit for grooming rabbits.",
+              "image_url": "https://example.com/rabbit_grooming_kit.jpg"
+            },
+            {
+              "product_name": "Rabbit Playpen",
+              "price": 32.99,
+              "rating": 4.8,
+              "description": "Spacious playpen for rabbits to exercise.",
+              "image_url": "https://example.com/rabbit_playpen.jpg"
+            },
+            {
+              "product_name": "Rabbit Tunnel Toy",
+              "price": 9.99,
+              "rating": 4.7,
+              "description": "Tunnel toy for rabbits' playful activities.",
+              "image_url": "https://example.com/rabbit_tunnel_toy.jpg"
+            },
+            {
+              "product_name": "Rabbit Nail Clippers",
+              "price": 7.29,
+              "rating": 4.9,
+              "description": "Clippers for trimming rabbits' nails.",
+              "image_url": "https://example.com/rabbit_nail_clippers.jpg"
+            }
+          ],
+          "cat_medicine": [
+            {
+              "product_name": "Flea & Tick Treatment for Cats",
+              "price": 15.99,
+              "rating": 4.5,
+              "image_url": "https://example.com/flea_tick_cats.jpg"
+            },
+            {
+              "product_name": "Hairball Control Medicine",
+              "price": 12.49,
+              "rating": 4.7,
+              "image_url": "https://example.com/hairball_control_cats.jpg"
+            },
+            {
+              "product_name": "Cat Dental Health Gel",
+              "price": 18.99,
+              "rating": 4.6,
+              "image_url": "https://example.com/dental_health_gel_cats.jpg"
+            },
+            {
+              "product_name": "Digestive Aid for Cats",
+              "price": 14.99,
+              "rating": 4.5,
+              "image_url": "https://example.com/digestive_aid_cats.jpg"
+            },
+            {
+              "product_name": "Joint Health Supplement for Cats",
+              "price": 19.99,
+              "rating": 4.8,
+              "image_url": "https://example.com/joint_health_cats.jpg"
+            }
+          ],
+          "dog_medicine": [
+            {
+              "product_name": "Heartworm Prevention for Dogs",
+              "price": 22.99,
+              "rating": 4.8,
+              "image_url": "https://example.com/heartworm_prevention_dogs.jpg"
+            },
+            {
+              "product_name": "Dog Anxiety Relief",
+              "price": 19.99,
+              "rating": 4.6,
+              "image_url": "https://example.com/anxiety_relief_dogs.jpg"
+            },
+            {
+              "product_name": "Dog Pain Relief",
+              "price": 25.99,
+              "rating": 4.7,
+              "image_url": "https://example.com/pain_relief_dogs.jpg"
+            },
+            {
+              "product_name": "Digestive Enzymes for Dogs",
+              "price": 16.99,
+              "rating": 4.5,
+              "image_url": "https://example.com/digestive_enzymes_dogs.jpg"
+            },
+            {
+              "product_name": "Dog Allergy Relief",
+              "price": 18.49,
+              "rating": 4.9,
+              "image_url": "https://example.com/allergy_relief_dogs.jpg"
+            }
+          ],
+          "bird_medicine": [
+            {
+              "product_name": "Bird Feather Plucking Solution",
+              "price": 12.99,
+              "rating": 4.6,
+              "image_url": "https://example.com/feather_plucking_birds.jpg"
+            },
+            {
+              "product_name": "Bird Respiratory Health Formula",
+              "price": 9.49,
+              "rating": 4.8,
+              "image_url": "https://example.com/respiratory_health_birds.jpg"
+            },
+            {
+              "product_name": "Bird Vitamin Boost",
+              "price": 14.99,
+              "rating": 4.7,
+              "image_url": "https://example.com/vitamin_boost_birds.jpg"
+            },
+            {
+              "product_name": "Beak Conditioner for Birds",
+              "price": 11.79,
+              "rating": 4.5,
+              "image_url": "https://example.com/beak_conditioner_birds.jpg"
+            },
+            {
+              "product_name": "Digestive Aid for Birds",
+              "price": 13.49,
+              "rating": 4.9,
+              "image_url": "https://example.com/digestive_aid_birds.jpg"
+            }
+          ],
+          "fish_medicine": [
+            {
+              "product_name": "Fish Antibiotics",
+              "price": 10.99,
+              "rating": 4.5,
+              "image_url": "https://example.com/fish_antibiotics.jpg"
+            },
+            {
+              "product_name": "Fish Fungus Treatment",
+              "price": 8.49,
+              "rating": 4.7,
+              "image_url": "https://example.com/fish_fungus_treatment.jpg"
+            },
+            {
+              "product_name": "Fish Parasite Remover",
+              "price": 11.99,
+              "rating": 4.6,
+              "image_url": "https://example.com/fish_parasite_remover.jpg"
+            },
+            {
+              "product_name": "Fish Anti-Itch Solution",
+              "price": 9.99,
+              "rating": 4.8,
+              "image_url": "https://example.com/fish_anti_itch.jpg"
+            },
+            {
+              "product_name": "Fish Stress Coat",
+              "price": 12.79,
+              "rating": 4.5,
+              "image_url": "https://example.com/fish_stress_coat.jpg"
+            }
+          ],
+          "rabbit_medicine": [
+            {
+              "product_name": "Rabbit Digestive Support",
+              "price": 11.99,
+              "rating": 4.7,
+              "image_url": "https://example.com/digestive_support_rabbits.jpg"
+            },
+            {
+              "product_name": "Rabbit Fur Conditioner",
+              "price": 9.49,
+              "rating": 4.6,
+              "image_url": "https://example.com/fur_conditioner_rabbits.jpg"
+            },
+            {
+              "product_name": "Rabbit Vitamin Drops",
+              "price": 12.99,
+              "rating": 4.8,
+              "image_url": "https://example.com/vitamin_drops_rabbits.jpg"
+            },
+            {
+              "product_name": "Rabbit Pain Relief",
+              "price": 10.99,
+              "rating": 4.5,
+              "image_url": "https://example.com/pain_relief_rabbits.jpg"
+            },
+            {
+              "product_name": "Rabbit Eye Drops",
+              "price": 8.79,
+              "rating": 4.9,
+              "image_url": "https://example.com/eye_drops_rabbits.jpg"
+            }
+          ]
+          
+
+    }
+  }
+  
