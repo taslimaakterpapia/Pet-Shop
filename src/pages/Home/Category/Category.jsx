@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 const Category = () => {
     return (
-        <div className=" flex justify-between text-lg items-center mx-4 mt-8 bg-green-400 text-orange-700 font-semibold px-3 py-2 rounded-lg ">
+        <div className=" flex justify-between text-lg items-center  mt-8 bg-green-400 text-orange-700 font-semibold px-3 py-2 rounded-lg ">
             <Link to='/cat' className="hover:border-2 border-orange-600 hover:text-green-700 hover:font-semibold px-3 py-2 rounded-lg "><img className="items-center justify-items-center" src={kitty}alt="" />Cat</Link>
             <Link to='/dog' className="hover:border-2 border-orange-600 hover:text-green-700 hover:font-semibold px-3 py-2 rounded-lg "><img src={dog}alt="" />Dog</Link>
             <Link to='/bird' className="hover:border-2 border-orange-600 hover:text-green-700 hover:font-semibold px-3 py-2 rounded-lg"><img src={parrot}alt="" />Bird</Link>
