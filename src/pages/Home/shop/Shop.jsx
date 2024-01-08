@@ -9,7 +9,7 @@ const Shop = () => {
     return (
         <div className="my-10  ">
 
-         <div className="flex mx-4 gap-16">
+         <div className="flex  gap-20">
 
             <div>            
             <img className="absolute h-[230px] w-[400px] rounded-xl transform  scale-x-[-1]" src={CatShop} alt="" />
@@ -54,7 +54,7 @@ const Shop = () => {
 
          
 
-          <div className="flex mx-4 gap-16 my-16">
+          <div className="flex  gap-20 my-16">
 
 
 
@@ -89,7 +89,7 @@ const Shop = () => {
          
           <div className="relative items-center pl-56 pt-12">
                 <h1 className="text-orange-700 font-semibold text-xl">Medicine</h1>
-                <p className="text-gray-500">pet Medicine</p>
+                <p className="text-gray-500">Pet Health Care</p>
                 <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>
             </div>
             </div>
