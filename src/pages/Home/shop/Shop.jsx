@@ -9,16 +9,94 @@ const Shop = () => {
     return (
         <div className="my-10  ">
 
-         <div className="flex mx-5 gap-5">
-            <img className=" w-[400px] rounded-xl transform scale-x-[-1]" src={CatShop} alt="" />
-            <img className=" w-[400px] rounded-xl" src={DogShop} alt="" />
-            <img className=" w-[400px] rounded-xl" src={RabbitShop} alt="" />
+         <div className="flex mx-4 gap-16">
+
+            <div>            
+            <img className="absolute h-[230px] w-[400px] rounded-xl transform  scale-x-[-1]" src={CatShop} alt="" />
+            
+            <div className="relative items-center pl-56 pt-12">
+                <h1 className="text-orange-700 font-semibold text-xl">Cat</h1>
+                <p className="text-gray-500">Food, Litters & Toys</p>
+                <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>
+            </div>
+            </div>
+
+
+
+
+            <div>            
+            <img className="absolute h-[230px] w-[400px] rounded-xl" src={DogShop} alt="" />
+            
+            <div className="relative items-center pl-56 pt-12">
+                <h1 className="text-orange-700 font-semibold text-xl">Dog</h1>
+                <p className="text-gray-500">Food, Bowls & Toys</p>
+                <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>
+            </div>
+            </div>
+
+
+
+
+            <div>            
+            <img className="absolute h-[230px] w-[400px] rounded-xl" src={RabbitShop} alt="" />
+            <div className="relative items-center pl-56 pt-12">
+                <h1 className="text-orange-700 font-semibold text-xl">Rabbits</h1>
+                <p className="text-gray-500">Food,feeders & Toys</p>
+                <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>
+            </div>
+            </div>
+
+        
+            
          </div>
 
-          <div className="flex mx-5 gap-5 pt-5">
-            <img className=" w-[400px] rounded-xl transform scale-x-[-1]" src={BirdShop} alt="" />
-            <img className=" w-[400px] rounded-xl" src={FishShop} alt="" />
-            <img className=" w-[400px] rounded-xl" src={MedicineShop} alt="" />
+
+
+         
+
+          <div className="flex mx-4 gap-16 my-16">
+
+
+
+          <div>
+            
+          <img className="absolute h-[230px] w-[400px] rounded-xl transform scale-x-[-1]" src={BirdShop} alt="" />
+         
+          <div className="relative items-center pl-56 pt-12">
+                <h1 className="text-orange-700 font-semibold text-xl">Bird</h1>
+                <p className="text-gray-500">Food,feeders & Toys</p>
+                <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>
+            </div>
+            </div>
+
+
+          <div>
+            
+          <img className="absolute h-[230px] w-[400px] rounded-xl" src={FishShop} alt="" />
+         
+          <div className="relative items-center pl-56 pt-12">
+                <h1 className="text-orange-700 font-semibold text-xl">Fish</h1>
+                <p className="text-gray-500">Food, Bowls & Toys</p>
+                <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>
+            </div>
+            </div>
+
+
+
+          <div>
+            
+          <img className="absolute h-[230px] w-[400px] rounded-xl" src={MedicineShop} alt="" />
+         
+          <div className="relative items-center pl-56 pt-12">
+                <h1 className="text-orange-700 font-semibold text-xl">Medicine</h1>
+                <p className="text-gray-500">pet Medicine</p>
+                <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>
+            </div>
+            </div>
+
+      
+            
+            
           </div>
 
             
