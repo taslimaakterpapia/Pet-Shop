@@ -5,10 +5,10 @@ import Injection from "../../../assets/injection.png"
 
 const Info = () => {
     return (
-        <div className="flex mt-10 py-10 gap-12 ">
+        <div className="md:flex flex-row mt-10 py-10 gap-12 ">
             
 
-        <div className="flex gap-3 items-center justify-center">
+        <div className="flex gap-2 items-center justify-center px-2 md:px-0 pb-2">
             <img className="hover:bg-green-400 p-5 rounded-xl" src={Ball} alt="" />
             <div>
                 <h1 className="text-xl font-semibold text-orange-400 font-salsa ">Pet Toys</h1>
@@ -17,7 +17,7 @@ const Info = () => {
         </div>
 
 
-        <div className="flex gap-3 items-center justify-center ">
+        <div className="flex gap-2 items-center justify-center px-2 pb-2">
             <img className="hover:bg-green-400 p-5 rounded-xl" src={Food} alt="" />
             <div>
                 <h1 className="text-xl font-semibold text-orange-400 font-salsa ">Pet Food</h1>
@@ -27,7 +27,7 @@ const Info = () => {
 
 
 
-        <div className="flex gap-3 items-center justify-center ">
+        <div className="flex gap-2 items-center justify-center px-2 pb-2">
             <img className="hover:bg-green-400 p-5 rounded-xl" src={Treat} alt="" />
             <div>
                 <h1 className="text-xl font-semibold text-orange-400 font-salsa "> Pet Treats</h1>
@@ -36,7 +36,7 @@ const Info = () => {
         </div>
 
 
-        <div className="flex gap-3 items-center justify-center ">
+        <div className="flex gap-2 items-center justify-center px-2 pb-2">
             <img className="hover:bg-green-400 p-5 rounded-xl" src={Injection} alt="" />
             <div>
                 <h1 className="text-xl font-semibold text-orange-400 font-salsa ">Pet Pharmacy</h1>

@@ -9,9 +9,9 @@ const Shop = () => {
     return (
         <div className="my-10  ">
 
-         <div className="flex  gap-20">
+         <div className="md:flex gap-20">
 
-            <div>            
+            <div className="pb-10 md:pb-0 ">            
             <img className="absolute h-[230px] w-[400px] rounded-xl transform  scale-x-[-1]" src={CatShop} alt="" />
             
             <div className="relative items-center pl-56 pt-12">
@@ -24,7 +24,7 @@ const Shop = () => {
 
 
 
-            <div>            
+            <div className="pb-10 md:pb-0 ">            
             <img className="absolute h-[230px] w-[400px] rounded-xl" src={DogShop} alt="" />
             
             <div className="relative items-center pl-56 pt-12">
@@ -37,7 +37,7 @@ const Shop = () => {
 
 
 
-            <div>            
+            <div className="pb-10 md:pb-0 ">            
             <img className="absolute h-[230px] w-[400px] rounded-xl" src={RabbitShop} alt="" />
             <div className="relative items-center pl-56 pt-12">
                 <h1 className="text-orange-700 font-semibold text-xl">Rabbits</h1>
@@ -54,11 +54,11 @@ const Shop = () => {
 
          
 
-          <div className="flex  gap-20 my-16">
+          <div className="md:flex  gap-20 md:my-16">
 
 
 
-          <div>
+          <div className="pb-10 md:pb-0 ">
             
           <img className="absolute h-[230px] w-[400px] rounded-xl transform scale-x-[-1]" src={BirdShop} alt="" />
          
@@ -70,7 +70,7 @@ const Shop = () => {
             </div>
 
 
-          <div>
+          <div className="pb-10 md:pb-0 ">
             
           <img className="absolute h-[230px] w-[400px] rounded-xl" src={FishShop} alt="" />
          
@@ -83,7 +83,7 @@ const Shop = () => {
 
 
 
-          <div>
+          <div className="pb-10 md:pb-0 ">
             
           <img className="absolute h-[230px] w-[400px] rounded-xl" src={MedicineShop} alt="" />
          
