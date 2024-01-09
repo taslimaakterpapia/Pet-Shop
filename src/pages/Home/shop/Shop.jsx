@@ -11,10 +11,10 @@ const Shop = () => {
 
          <div className="md:flex gap-20">
 
-            <div className="pb-10 md:pb-0 ">            
+            <div className="pb-10 md:pb-0">            
             <img className="absolute h-[230px] w-[400px] rounded-xl transform  scale-x-[-1]" src={CatShop} alt="" />
             
-            <div className="relative items-center pl-56 pt-12">
+            <div className="relative items-center pl-56 pt-12 ">
                 <h1 className="text-orange-700 font-semibold text-xl">Cat</h1>
                 <p className="text-gray-500">Food, Litters & Toys</p>
                 <button className="bg-orange-700 text-white font-semibold rounded-xl p-4 mt-10">Shop Now</button>

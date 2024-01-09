@@ -14,6 +14,7 @@ const Home = () => {
         <Shop></Shop>
         <PopularProduct></PopularProduct>
         <Brand></Brand>
+
         </div>
     );
 };
