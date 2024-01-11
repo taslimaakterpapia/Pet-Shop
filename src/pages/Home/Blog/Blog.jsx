@@ -17,7 +17,7 @@ const Blog = () => {
     <div>
       <h1 className="text-3xl text-orange-400 font-bold text-center my-5 underline underline-offset-4">Our Blog</h1>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 ml-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10">
         {
           visibleBlogs.map(item => <BlogStyle
             
@@ -28,10 +28,12 @@ const Blog = () => {
       </div>
 
       {petBlog.length > 3 && (
-        <div className="text-center mt-4">
-          <Link to="/see-more" className="bg-green-500 text-white font-semibold underline p-5 rounded-xl">See More</Link>
+        <div className="text-center mb-10 items-center justify-center">
+          <Link to="/blog" className="bg-orange-500 hover:bg-green-600 text-white font-semibold underline px-5 py-4 rounded-xl ">See More</Link>
         </div>
       )}
+
+      
     </div>
   );
 };

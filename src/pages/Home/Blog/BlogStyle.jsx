@@ -5,7 +5,7 @@ const BlogStyle = ({ item }) => {
     const { title, content } = item;
 
     return (
-        <div className="card w-90 bg-gray-100 shadow-xl items-center justify-center">
+        <div className="card bg-gray-100 shadow-xl items-center justify-center">
 
         {/* <figure className="px-6 pt-6">
             <img src={image} alt="Shoes" className="rounded-xl" />

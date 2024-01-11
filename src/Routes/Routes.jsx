@@ -5,6 +5,7 @@ import Main from "../Layout/Main";
 import Home from "../pages/Home/Home/Home";
 import Contact from "../pages/Shared/Contact/Contact";
 import Cart from "../pages/Shared/Cart/Cart";
+import Blog from "../pages/Home/Blog/Blog";
 
      export const router = createBrowserRouter([
     {
@@ -23,6 +24,10 @@ import Cart from "../pages/Shared/Cart/Cart";
             path:'/cart',
             element:<Cart></Cart>
         },
+        {
+            path:'/blog',
+            element:<Blog></Blog>
+        }
      
     
 
