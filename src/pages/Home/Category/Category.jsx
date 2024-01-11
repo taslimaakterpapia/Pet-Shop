@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 const Category = () => {
     return (
-        <div className=" md:flex flex-wrap justify-between text-lg items-center  mt-8 bg-green-400 text-orange-700 font-semibold px-3 py-2 rounded-lg ">
+        <div className=" md:flex flex-wrap justify-between text-lg items-center  mt-6 bg-green-400 text-orange-700 font-semibold px-3 py-2 rounded-lg mx-5 md:mx-0 mb-6">
             
             <ul className="menu lg:menu-horizontal  hover:border-2 border-orange-600 hover:text-green-700 hover:font-semibold px-3 py-2 rounded-lg ">
             <li className="relative">

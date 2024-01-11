@@ -2,6 +2,7 @@ import About from "../About/About";
 import Banner from "../Banner/Banner";
 import Blog from "../Blog/Blog";
 import Brand from "../Brand/Brand";
+import Category from "../Category/Category";
 import Info from "../Info/Info";
 import PopularProduct from "../PopularProduct/PopularProduct";
 import Shop from "../shop/Shop";
@@ -11,6 +12,7 @@ import Shop from "../shop/Shop";
 const Home = () => {
     return (
         <div className="mt-5">
+         <Category></Category>   
         <Banner></Banner>
         <Info></Info>
         <Shop></Shop>

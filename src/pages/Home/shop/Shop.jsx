@@ -7,9 +7,9 @@ import MedicineShop from "../../../assets/medicine-shop.jpg";
 
 const Shop = () => {
     return (
-        <div className="my-10  ">
+        <div className="my-10 ">
 
-         <div className="md:flex gap-20">
+         <div className="md:flex gap-20 ">
 
             <div className="pb-10 md:pb-0">            
             <img className="absolute h-[230px] w-[400px] rounded-xl transform  scale-x-[-1]" src={CatShop} alt="" />

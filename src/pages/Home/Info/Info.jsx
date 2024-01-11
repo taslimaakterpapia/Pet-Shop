@@ -5,7 +5,7 @@ import Injection from "../../../assets/injection.png"
 
 const Info = () => {
     return (
-        <div className="md:flex flex-row mt-10 py-10 gap-12 ">
+        <div className="md:flex flex-row mt-10 py-10 gap-12 mx-3 md:mx-0">
             
 
         <div className="flex gap-2 items-center justify-center px-2 md:px-0 pb-2">

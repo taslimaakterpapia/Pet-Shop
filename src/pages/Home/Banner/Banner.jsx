@@ -10,10 +10,10 @@ import img11 from "../../../assets/img11.jpg"
 
 const Banner = () => {
     return (
-        <div>
+        <div className="mx-10 md:mx-0">
         <div className="md:flex gap-3 md:mb-5 ">
             <img  className="rounded-lg w-[305px] md:w-[580px] pb-2 md:pb-0" src={img3} alt="" />
-            <div className="md:grid grid-cols-2 gap-3 w-[305px] md:w-auto">
+            <div className="grid grid-cols-2 gap-3 w-[305px] md:w-auto">
                 <img className="rounded-lg pb-2 md:pb-0" src={img2} alt="" />
                 <img className="rounded-lg pb-2 md:pb-0" src={img1} alt="" />
                 <img className="rounded-lg pb-2 md:pb-0" src={img4} alt="" />
