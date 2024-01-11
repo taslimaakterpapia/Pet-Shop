@@ -10,6 +10,8 @@ const BlogStyle = ({ item }) => {
         {/* <figure className="px-6 pt-6">
             <img src={image} alt="Shoes" className="rounded-xl" />
         </figure> */}
+
+        
         <div className="card-body items-center text-center">
                       
             <h2 className="text-2xl font-bold text-amber-600">{title} </h2>

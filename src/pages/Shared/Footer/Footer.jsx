@@ -6,16 +6,16 @@ const Footer = () => {
     return (
         <footer className="my-10">
                  <hr className="border-0 bg-green-500 h-1" />
-            <div className="flex flex-col-4 pt-5 justify-between">
+            <div className="md:grid grid-cols-4  pt-5 gap-10 mx-10 md:mx-0">
 
 
                 <div>
-                    <img className="w-[200px] " src={icon} alt="" />
+                    <img className="" src={icon} alt="" />
 
-                    <p>Pet Shop is an online pet shop in Dhaka providing <br /> your loving pets with their favorite foods and other <br /> accessories. We home deliver your pet food so you <br /> can receive from your doorstep.</p>
+                    <p className="text-justify  ">Pet Shop is an online  pet shop in Dhaka providing  your loving pets with their favorite foods and other accessories. We home deliver your pet food so you  can receive from your doorstep.</p>
                 </div>
 
-                <div>
+                <div className="lg:ml-28">
                     <h1 className="text-xl font-bold text-orange-400 py-5 ">CATEGORIES</h1>
 
                     <Link className="hover:text-green-600">Cat</Link> <br />
@@ -27,7 +27,7 @@ const Footer = () => {
                 </div>
 
 
-                <div>
+                <div className="lg:ml-20">
                     <h1 className="text-xl font-bold text-orange-400 py-5">QUICK LINKS</h1>
                     <Link className="hover:text-green-600">Home</Link> <br />
                     <Link className="hover:text-green-600">Blog</Link>  <br />
@@ -36,7 +36,7 @@ const Footer = () => {
                 </div>
 
 
-                <div>
+                <div className="lg:ml-16">
                 <h1 className="text-xl font-bold text-orange-400 py-5 ">CONTACT</h1>
                     <p><span className=" font-bold text-orange-400 ">Address:</span> Dhaka, Bangladesh.  </p>
                     <p><span className=" font-bold text-orange-400 ">Phone Number:</span> 000000000  </p>

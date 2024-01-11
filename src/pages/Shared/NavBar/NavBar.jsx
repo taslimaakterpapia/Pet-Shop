@@ -5,12 +5,12 @@ import './NavBar.css';
 
 const NavBar = () => {
     return (
-        <div >
+        <div>
 
 
 
 
-            <div className='flex items-center justify-between '>
+            <div className='md:flex flex-wrap items-center justify-between mb-2 md:mb-0'>
 
                 <div>
                     <img
@@ -21,8 +21,9 @@ const NavBar = () => {
 
                 </div>
 
-                <div className="flex items-center justify-center ">
-                    <div className="rounded-lg p-5">
+                <div className="flex ">
+
+                    <div className="rounded-lg pb-5 md:p-5">
                         <div className="flex">
 
 

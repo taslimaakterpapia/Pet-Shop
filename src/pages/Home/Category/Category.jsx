@@ -8,16 +8,17 @@ import { Link } from "react-router-dom";
 
 const Category = () => {
     return (
-        <div className=" md:flex justify-between text-lg items-center  mt-8 bg-green-400 text-orange-700 font-semibold px-3 py-2 rounded-lg ">
+        <div className=" md:flex flex-wrap justify-between text-lg items-center  mt-8 bg-green-400 text-orange-700 font-semibold px-3 py-2 rounded-lg ">
             
             <ul className="menu lg:menu-horizontal  hover:border-2 border-orange-600 hover:text-green-700 hover:font-semibold px-3 py-2 rounded-lg ">
             <li className="relative">
                     <details  >
-                        <summary><img className="items-center justify-items-center" src={kitty} alt="" />Cat</summary>
+                        <summary>
+                            <img className="items-center justify-items-center" src={kitty} alt="" />Cat</summary>
                         <ul className="bg-orange-400  hover:text-orange-700 ">
-                            <li className=" text-green-700 hover:text-orange-700 "><Link>Food</Link></li>
-                            <li className=" text-green-700 hover:text-orange-700 "><Link>Accessories</Link></li>
-                            <li className=" text-green-700 hover:text-orange-700 "><Link>Medicine</Link></li>
+                            <li className=" text-green-700 hover:text-orange-700 "><Link to="/cat-food">Food</Link></li>
+                            <li className=" text-green-700 hover:text-orange-700 "><Link to="/cat-accessories">Accessories</Link></li>
+                            <li className=" text-green-700 hover:text-orange-700 "><Link to="/cat-medicine">Medicine</Link></li>
 
                         </ul>
                     </details>

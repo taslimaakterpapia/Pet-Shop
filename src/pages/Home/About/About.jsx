@@ -6,7 +6,7 @@ import img26 from "../../../assets/img26.jpg"
 
 const About = () => {
     return (
-        <div className="my-10">
+        <div className="my-10 mx-10 md:mx-0">
 
             <h1 className="text-3xl text-orange-400 font-bold text-center justify-center underline underline-offset-4">Why Pet Shop?</h1>
 
