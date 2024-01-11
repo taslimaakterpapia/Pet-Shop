@@ -28,7 +28,7 @@ const Brand = () => {
                 <Marquee>
                     <MarqueeGroup>
                         {row1.map((el, index) => (
-                            <ImageGroup key={index}> {/* Ensure 'key' prop is unique */}
+                            <ImageGroup key={index}> 
                                 <Image src={el} />
                              
                             </ImageGroup>
@@ -50,7 +50,7 @@ const Container = styled.div`
 
   
  
- margin-bottom: 40px;
+  margin-bottom: 40px;
 
 
   position: relative;
@@ -92,7 +92,7 @@ const scrollX = keyframes`
     left: translateX(0);
   }
   to {
-    transform: translateX(-50%);
+    transform: translateX(-100%);
   }
 `;
 
@@ -126,3 +126,4 @@ const Image = styled.img`
   
   
 `;
+
