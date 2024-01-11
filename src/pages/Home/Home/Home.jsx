@@ -1,6 +1,8 @@
 import About from "../About/About";
 import Banner from "../Banner/Banner";
 import Blog from "../Blog/Blog";
+
+// import BlogPage from "../Blog/BlogPage";
 import Brand from "../Brand/Brand";
 import Info from "../Info/Info";
 import PopularProduct from "../PopularProduct/PopularProduct";
@@ -18,6 +20,7 @@ const Home = () => {
         <Brand></Brand>
         <About></About>
         <Blog></Blog>
+        {/* <BlogPage></BlogPage> */}
 
         </div>
     );

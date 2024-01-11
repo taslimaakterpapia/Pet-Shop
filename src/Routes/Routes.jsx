@@ -5,7 +5,8 @@ import Main from "../Layout/Main";
 import Home from "../pages/Home/Home/Home";
 import Contact from "../pages/Shared/Contact/Contact";
 import Cart from "../pages/Shared/Cart/Cart";
-import Blog from "../pages/Home/Blog/Blog";
+
+import BlogPage from "../pages/Home/Blog/BlogPage";
 
      export const router = createBrowserRouter([
     {
@@ -26,7 +27,7 @@ import Blog from "../pages/Home/Blog/Blog";
         },
         {
             path:'/blog',
-            element:<Blog></Blog>
+            element:<BlogPage></BlogPage>
         }
      
     

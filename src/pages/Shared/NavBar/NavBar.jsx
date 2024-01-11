@@ -61,7 +61,7 @@ const NavBar = () => {
                         </svg>
                     </Link>
 
-                    <Link to='/blog' className="button">
+                    <Link to='/blog' className="button"> Blog
                         <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" strokeLinejoin="round" strokeLinecap="round" viewBox="0 0 24 24" strokeWidth="2" fill="none" stroke="currentColor" className="icon">
                             <circle r="1" cy="21" cx="9"></circle>
                             <circle r="1" cy="21" cx="20"></circle>
