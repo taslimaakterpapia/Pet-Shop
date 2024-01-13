@@ -2,14 +2,14 @@
 
 const BlogStyle = ({ item }) => {
 
-    const { title, content } = item;
+    const { title, content, image } = item;
 
     return (
         <div className="card bg-gray-100 shadow-xl items-center justify-center">
 
-        {/* <figure className="px-6 pt-6">
+        <figure className="px-6 pt-6">
             <img src={image} alt="Shoes" className="rounded-xl" />
-        </figure> */}
+        </figure>
 
         
         <div className="card-body items-center text-center">
