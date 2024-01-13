@@ -71,10 +71,9 @@ const Wrapper = styled.div`
 
 
 
-
 const Marquee = styled.div`
   display: flex;
-  width: 1200px;
+  width: 100%; 
   overflow: hidden;
   user-select: none;
 
@@ -85,7 +84,16 @@ const Marquee = styled.div`
     hsl(0 0% 0% / 1) 90%,
     hsl(0 0% 0% / 0)
   );
+
+  @media (min-width: 768px) {
+    width: 80%;
+  }
+
+  @media (min-width: 1200px) {
+       width: 1200px;
+  }
 `;
+
 
 const scrollX = keyframes`
   from {
@@ -120,10 +128,8 @@ const ImageGroup = styled.div`
 
 const Image = styled.img`
   object-fit: contain;
-  
-  
   border-radius: 0.5rem;
-  
-  
+
+ 
 `;
 
